@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabrielsozinho
+- 👋 Hi, I’m Gabriel Sozinho
 - 👀 I’m interested in full-stack developerment
 - 🌱 I’m currently learning English, HTML, CSS and JS (I already know Python)
 - 💞️ I’m looking to collaborate on my project Ashia (Virtual Assistant) (Marketing, Designer and Web Developer)
