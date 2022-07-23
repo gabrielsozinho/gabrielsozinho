@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
 ![](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+![](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
 
 
 ### Learning or interested
