@@ -11,6 +11,8 @@
 ![](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
 ![](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
+![](https://img.shields.io/badge/-Youtube😅-black?style=flat&logo=youtube)
+
 <br>
 <br>
 
@@ -20,6 +22,9 @@
 ![](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/-NextJs-black?style=flat&logo=next.js)
 ![](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
+![](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+![](https://img.shields.io/badge/-SEO-black?style=flat&logo=google)
+
 <br>
 <br>
 
