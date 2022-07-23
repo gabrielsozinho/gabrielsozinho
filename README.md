@@ -1,5 +1,6 @@
 ![](https://dynamic-image-renderer.vercel.app/api?preset=default&title=Gabriel+Sozinho&subtitle=in+constant+learning+process&textAnimation=fadein&glowColor=,)
-
+<br>
+<br>
 ### Languages or technologies
 ![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
@@ -10,7 +11,8 @@
 ![](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
 ![](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
-
+<br>
+<br>
 
 ### Learning or interested
 ![](https://img.shields.io/badge/-ReactJs-black?style=flat&logo=react)
@@ -18,6 +20,8 @@
 ![](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/-NextJs-black?style=flat&logo=next.js)
 ![](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
+<br>
+<br>
 
 ### Connect with me
 <p align="left">
