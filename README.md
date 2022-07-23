@@ -15,3 +15,9 @@
 ![](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/-NextJs-black?style=flat&logo=next.js)
 ![](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
+
+### Connect with me
+<p align="left">
+<a href="https://twitter.com/gsozinhos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gsozinhos" height="30" width="40" /></a>
+<a href="https://instagram.com/gsozinhos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gsozinhos" height="30" width="40" /></a>
+</p>
