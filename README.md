@@ -11,7 +11,6 @@
 ![](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
 ![](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
-![](https://img.shields.io/badge/-Youtube😅-black?style=flat&logo=youtube)
 
 <br>
 <br>
