@@ -12,6 +12,9 @@ Hey! My name is Gabriel Sozinho, I was born in 2009 and I live in Brazil. ðŸ‡§ðŸ
 ![](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
 ![](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
+![](https://img.shields.io/badge/-Json-black?style=flat&logo=json)
+
+
 <br>
 
 ### Learning or interested
