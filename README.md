@@ -25,7 +25,9 @@ Hey! My name is Gabriel Sozinho, I was born in 2009 and I live in Brazil. ðŸ‡§ðŸ
 ![](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 ![](https://img.shields.io/badge/-SEO-black?style=flat&logo=google)
-
+<br>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsozinho&langs_count=8"></p>
 <br>
 <br>
 
