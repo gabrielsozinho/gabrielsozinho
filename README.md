@@ -2,7 +2,7 @@
 Hey! My name is Gabriel Sozinho, I was born in 2009 and I live in Brazil. 🇧🇷
 <br>
 <br>
-### Languages or technologies
+### Languages and tools
 ![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
 ![](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
