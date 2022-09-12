@@ -28,7 +28,11 @@ Hey! My name is Gabriel Sozinho, I was born in 2009 and I live in Brazil. ðŸ‡§ðŸ
 ![](https://img.shields.io/badge/-SEO-black?style=flat&logo=google)
 <br>
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsozinho&langs_count=6"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsozinho&langs_count=6&theme=dark"></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielsozinho&hide_border=true&count_private=true&show_icons=true&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsozinho&theme=dark&hide_border=true">
+</div>
 <br>
 <br>
 
