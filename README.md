@@ -1,8 +1,11 @@
-![](https://dynamic-image-renderer.vercel.app/api?preset=default&title=Gabriel+Sozinho&subtitle=in+constant+learning+process&textAnimation=fadein&glowColor=,)
+<div align=center>
+<img src="https://dynamic-image-renderer.vercel.app/api?preset=default&title=Gabriel+Sozinho&subtitle=in+constant+learning+process&textAnimation=fadein">
 
 Hey! My name is Gabriel Sozinho, I was born in 2009 and I live in Brazil. 🇧🇷
+</div>
 <br>
 <br>
+
 ### Languages and tools
 ![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
@@ -36,8 +39,9 @@ Hey! My name is Gabriel Sozinho, I was born in 2009 and I live in Brazil. 🇧�
 <br>
 <br>
 
+<div align="center">
 <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300">
-
+</div>
 
 ### Connect with me
 <p align="left">
