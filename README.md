@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://dynamic-image-renderer.vercel.app/api?preset=default&title=Gabriel+Sozinho&subtitle=in+constant+learning+process&textAnimation=fadein">
+<h1>Gabriel Sozinho</h1>
 
 Hey! My name is Gabriel Sozinho, I was born in 2009 and I live in Brazil. 🇧🇷
 </div>
