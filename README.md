@@ -2,6 +2,10 @@
 <h1>Gabriel Sozinho</h1>
 
 Hey! My name is Gabriel Sozinho, I was born in 2009 and I live in Brazil. 🇧🇷
+
+<br>
+
+Acess my portfolio website at [gabrielsozinho.ga](https://gabrielsozinho.ga)
 </div>
 <br>
 <br>
