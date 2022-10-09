@@ -45,6 +45,11 @@ Acess my portfolio website at [gabrielsozinho.ga](https://gabrielsozinho.ga)
 <br>
 <br>
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <div align="center">
 <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300">
 </div>
