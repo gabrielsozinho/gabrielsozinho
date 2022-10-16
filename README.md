@@ -49,7 +49,7 @@ Acess my portfolio website at [gabrielsozinho.ga](https://gabrielsozinho.ga)
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 14 October 2022
+From: 08 October 2022 - To: 15 October 2022
 
 Total Time: 6 hrs 10 mins
 
