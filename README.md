@@ -65,7 +65,7 @@ Markdown     1 hr 9 mins     >------------------------   04.99 %
 
 
 <div align="center">
-<img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300">
+<a href="https://open.spotify.com/user/8b60sqizebp24h9m47wol5y2n"><img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300"></a>
 </div>
 
 ### Connect with me
