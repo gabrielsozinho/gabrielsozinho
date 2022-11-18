@@ -35,9 +35,8 @@ Acess my portfolio website at [gabrielsozinho.ga](https://gabrielsozinho.ga)
 ![](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 ![](https://img.shields.io/badge/-SEO-black?style=flat&logo=google)
+
 <br>
-<br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsozinho&langs_count=6&theme=dark"></p>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielsozinho&hide_border=true&count_private=true&show_icons=true&theme=dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsozinho&theme=dark&hide_border=true">
