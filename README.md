@@ -48,16 +48,16 @@ Acess my portfolio website at [gabrielsozinho.ga](https://gabrielsozinho.ga)
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 13 February 2023
+From: 08 October 2022 - To: 14 February 2023
 
-Total Time: 51 hrs 19 mins
+Total Time: 51 hrs 29 mins
 
-JavaScript   17 hrs 18 mins  >>>>>>>>-----------------   33.71 %
-HTML         13 hrs 14 mins  >>>>>>-------------------   25.79 %
-CSS          12 hrs 58 mins  >>>>>>-------------------   25.27 %
-Python       3 hrs 29 mins   >>-----------------------   06.80 %
-Markdown     1 hr 50 mins    >------------------------   03.60 %
-JSON         1 hr 24 mins    >------------------------   02.74 %
+JavaScript   17 hrs 18 mins  >>>>>>>>-----------------   33.60 %
+HTML         13 hrs 24 mins  >>>>>>>------------------   26.05 %
+CSS          12 hrs 58 mins  >>>>>>-------------------   25.18 %
+Python       3 hrs 29 mins   >>-----------------------   06.78 %
+Markdown     1 hr 50 mins    >------------------------   03.59 %
+JSON         1 hr 24 mins    >------------------------   02.73 %
 ```
 
 <!--END_SECTION:waka-->
