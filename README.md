@@ -48,7 +48,7 @@ Acess my portfolio website at [gabrielsozinho.ga](https://gabrielsozinho.ga)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2022 - To: 30 July 2023
+From: 08 October 2022 - To: 31 July 2023
 
 Total Time: 51 hrs 29 mins
 
