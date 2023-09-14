@@ -6,7 +6,6 @@ Hey! My name is Gabriel Sozinho, I was born in 2009 and I live in Brazil. ðŸ‡§ðŸ
 ![Profile views](https://gpvc.arturio.dev/gabrielsozinho)
 <br>
 
-Acess my portfolio website at [gabrielsozinho.ga](https://gabrielsozinho.ga)
 </div>
 <br>
 <br>
