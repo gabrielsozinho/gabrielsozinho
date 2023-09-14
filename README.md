@@ -3,7 +3,6 @@
 
 Hey! My name is Gabriel Sozinho, I was born in 2009 and I live in Brazil. 🇧🇷
 
-![Profile views](https://gpvc.arturio.dev/gabrielsozinho)
 <br>
 
 </div>
