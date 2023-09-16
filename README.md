@@ -46,15 +46,15 @@ Hey! My name is Gabriel Sozinho, I was born in 2009 and I live in Brazil. ğŸ‡§ğŸ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2022 - To: 15 September 2023
+From: 08 October 2022 - To: 16 September 2023
 
-Total Time: 51 hrs 43 mins
+Total Time: 52 hrs 5 mins
 
-JavaScript    17 hrs 22 mins  >>>>>>>>-----------------   33.57 %
-HTML          13 hrs 24 mins  >>>>>>-------------------   25.93 %
-CSS           12 hrs 58 mins  >>>>>>-------------------   25.07 %
-Python        3 hrs 29 mins   >>-----------------------   06.75 %
-Markdown      1 hr 50 mins    >------------------------   03.57 %
+JavaScript     17 hrs 25 mins  >>>>>>>>-----------------   33.43 %
+HTML           13 hrs 24 mins  >>>>>>-------------------   25.75 %
+CSS            12 hrs 58 mins  >>>>>>-------------------   24.89 %
+Python         3 hrs 29 mins   >>-----------------------   06.70 %
+Markdown       1 hr 50 mins    >------------------------   03.55 %
 ```
 
 <!--END_SECTION:waka-->
