@@ -46,7 +46,7 @@ Hey! My name is Gabriel Sozinho, I was born in 2009 and I live in Brazil. ðŸ‡§ðŸ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2022 - To: 25 May 2024
+From: 08 October 2022 - To: 26 May 2024
 
 Total Time: 54 hrs 17 mins
 
